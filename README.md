@@ -14,7 +14,7 @@ It includes:
 - Exploring insights such as pay gaps, absenteeism, tenure, and salary growth  
 
 All logic is implemented in:  
-📄 **`hr_analytics_extended.sql`**
+📄 **`hr_analytics.sql`**
 
 Additional advanced queries stored in:  
 📄 **`Sql_Project_Queries.txt`**
